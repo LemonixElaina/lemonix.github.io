@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    padding-right: 10px;
+    font-size: 20px;
+    color: green;
+}
+
+#account {
+    display: inline;
+    float: right;
+    color: black;
+    background-color: yellow;
+    font-size: 20px;
+    margin-top: 0;
+}
+
+#name {
+    color:cyan;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+
+#elaina {
+    display: block;
+    margin: 0 auto;
+    height: 160px;
+    width: 300px;
+}
+
+#tools {
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
